@@ -15,4 +15,5 @@ npm run serve
 npm run build
 ```
 
+Traversy Media
 https://www.youtube.com/watch?v=Wy9q22isx3U
